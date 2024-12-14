@@ -5,3 +5,4 @@ Problem_3.py, Problem_4.py: MNIST database of handwritten digits has a training 
 selected function(pd.read_csv, ImageDataGenerator, tf.keras.Sequential
 , model.evaluate_generator, cv2.imread, cv2.cvtColor, cv2.resize, tf.keras.models.load_model, np.argmax, cv2.ellipse).
 Date created/updated: December, 9, 2024.
+![download2](https://github.com/user-attachments/assets/0fd74978-b6a1-4294-a843-7bce2f66e13c)
